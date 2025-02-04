@@ -12,7 +12,8 @@
 - I love programming and developing software for daily life solutions.
 - In addition to working on various solo full stack projects,  I am looking to work on collaborative projects and project management.
 - There is no age to continue learning. 
-- I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/Martín_Román_CV.pdf/view?usp=sharing).
+- I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/ "Martín _Román _CV.pdf"/view?usp=sharing).
+
 
 
 
