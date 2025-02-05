@@ -3,7 +3,7 @@
 
 <!---------------------------------------------------------------------------------------------------------------------------->
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">Acerca de mí</h2>  
+<h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - I’m a developer who has passion for building clean web applications with intuitive functionality.
@@ -55,7 +55,7 @@
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-2C2255?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
-  <h4>Otras herramienteas y tecnologías</h4>
+  <h4>Other tools and technologies</h4>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-4078c0?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
@@ -64,7 +64,7 @@
 
 <!---------------------------------------------------------------------------------------------------------------------------->
 
-## Estadísticas
+## Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MHR77&bg_color=0d1117&color=ffffff&line=33ff4f&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -78,7 +78,7 @@
     
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## 🗺️ Ubicación
+## 🗺️ Location map
 
  ```geojson
 {
